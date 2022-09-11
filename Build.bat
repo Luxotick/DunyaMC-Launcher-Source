@@ -1,0 +1,1 @@
+"%CD%\node-v16.15.1-win-x64\npm" install && "%CD%\node-v16.15.1-win-x64\npm" run build
